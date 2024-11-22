@@ -1,4 +1,5 @@
 """"
+https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sum_Arrays.md
 Write a function that takes an array of numbers and returns the sum of the numbers. The numbers can be negative or non-integer. 
 If the array does not contain any numbers then you should return 0.
 
